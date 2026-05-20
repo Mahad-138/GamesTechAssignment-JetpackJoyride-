@@ -3,9 +3,6 @@ using UnityEngine;
 public class Car : MonoBehaviour
 {
 
-    [sterilisedfield] rigidbody rb;
-    [sterilised]
-
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
